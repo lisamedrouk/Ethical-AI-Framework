@@ -82,7 +82,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Your Name**
-- Lisa M
+- Lisa Medrouk 
 
 ## 🙏 Acknowledgments
 
@@ -96,4 +96,4 @@ For questions or feedback, please open an issue on GitHub.
 
 ---
 
-Made with ❤️ for ethical AI development
+Made for ethical AI development
